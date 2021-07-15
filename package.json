@@ -2,10 +2,10 @@
     "name": "js_sandbox",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
     "scripts": {
         "lint": "eslint --fix index.js",
-        "serve": "npx webpack serve --mode development"
+        "open": "open -a 'Google Chrome' http://localhost:8080",
+        "serve": "npm run open && npx webpack serve --mode development"
     },
     "author": "sashafdtv",
     "license": "ISC",
