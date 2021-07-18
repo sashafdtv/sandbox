@@ -1,5 +1,5 @@
 # sandbox
-Sandbox для быстрого запуска JS кода. Есть ветки для React и Vue. 
+Sandbox для быстрого запуска JS кода. Есть ветки для React и Vue (проекты созданы с помощью react-create-app и vue-cli)
 
 ## Команды
 
