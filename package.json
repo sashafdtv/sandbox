@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "lint": "eslint --fix index.js",
+        "lint": "eslint --fix .",
         "open": "open -a 'Google Chrome' http://localhost:8080",
         "serve": "npm run open && npx webpack serve --mode development"
     },
